@@ -1,5 +1,5 @@
-# 自动化任务 · 手机适配预览
+# 自动化任务 · 创建者信息
 
-运行文件与演示数据。手机卡片分行显示触发时间与创建者；编辑任务复用原表单。所有自动化变更保存在浏览器本地。
+手机直接访问：https://yuwang15.github.io/automation-creators-mobile/
 
-https://yuwang15.github.io/automation-creators-mobile/mobile.html
+本仓库仅包含独立运行的原型静态产物和演示数据，不连接产品后端。2026-11-03 按用户要求重新发布。

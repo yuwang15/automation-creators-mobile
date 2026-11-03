@@ -77,3 +77,4 @@
   }
 
 `},"getStyles"),p={};(0,c.V)(p,{draw:()=>y});var y=(0,c.K)(async function(e,t,s,c){o.R.info("REF0:"),o.R.info("Drawing requirement diagram (unified)",t);let{securityLevel:h,state:u,layout:m,look:d}=(0,l.D7)(),p=c.db.getData(),y=(0,i.A)(t,h);p.type=c.type,p.layoutAlgorithm=(0,r.q7)(m),p.nodeSpacing=u?.nodeSpacing??50,p.rankSpacing=u?.rankSpacing??50,p.markers="neo"===d?["requirement_contains_neo","requirement_arrow_neo"]:["requirement_contains","requirement_arrow"],p.diagramId=t,await (0,r.XX)(p,y),a._K.insertTitle(y,"requirementDiagramTitleText",u?.titleTopMargin??25,c.db.getDiagramTitle()),(0,n.P)(y,8,"requirementDiagram",u?.useMaxWidth??!0)},"draw"),E={parser:h,get db(){return new u},renderer:p,styles:d}}}]);
+//# sourceMappingURL=22.7ff69766.iframe.bundle.js.map
