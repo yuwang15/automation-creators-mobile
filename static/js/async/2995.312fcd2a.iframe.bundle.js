@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktag_web=self.webpackChunktag_web||[]).push([["2995"],{"../../node_modules/.pnpm/@excalidraw+excalidraw@0.18.1_@types+react-dom@18.3.7_@types+react@18.3.19__@types+reac_6a8623e3e1b9a4a561cce1a7ff1ff4cd/node_modules/@excalidraw/excalidraw/dist/prod/index.css"(e,a,c){c.r(a)}}]);

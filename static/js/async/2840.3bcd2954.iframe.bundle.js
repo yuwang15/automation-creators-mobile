@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktag_web=self.webpackChunktag_web||[]).push([["2840"],{"../../node_modules/.pnpm/react-syntax-highlighter@16.1.1_react@18.3.1/node_modules/react-syntax-highlighter/dist/esm/languages/prism/jsx.js"(e,s,a){a.r(s),s.default=a("../../node_modules/.pnpm/refractor@5.0.0/node_modules/refractor/lang/jsx.js").A}}]);
